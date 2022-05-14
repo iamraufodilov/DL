@@ -1,0 +1,23 @@
+# Top algorigthms in deep learning
+
+0) Aritificial Neural Network
+
+1) Convolutional Neural Networks (CNNs)
+
+2) Long Short Term Memory Networks (LSTMs)
+
+3) Recurrent Neural Networks (RNNs)
+
+4) Generative Adversarial Networks (GANs)
+
+5) Radial Basis Function Networks (RBFNs)
+
+6) Multilayer Perceptrons (MLPs)
+
+7) Self Organizing Maps (SOMs)
+
+8) Deep Belief Networks (DBNs)
+
+9) Restricted Boltzmann Machines( RBMs)
+
+10) Autoencoders
