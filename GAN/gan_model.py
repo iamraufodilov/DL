@@ -110,3 +110,6 @@ def define_gan(g_model, d_model):
     model.compile(loss='binary_crossentropy', optimizer=opt, metrics=['accuracy'])
     return model
 
+gan = define_gan(generator, discriminator)
+# rauf you didn't finished this project if you have time finish it
+# ok  
